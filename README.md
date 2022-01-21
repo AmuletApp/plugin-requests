@@ -1,5 +1,5 @@
 # Plugin requests
-Submit your plugin requests from the issues tab [here](https://github.com/RedditVanced/plugin-requests/issues).
+Submit your plugin requests from the issues tab [here](https://github.com/RedditVanced/plugin-requests/issues/new/choose).
 
 ⚠ **Not sticking to the template will result in your request being closed!**
 
